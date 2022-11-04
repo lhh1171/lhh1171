@@ -1,3 +1,6 @@
+---
+[![my github data](https://github-readme-stats.vercel.app/api?username=lhh1171&show_icons=true&theme=algolia)]()
+
 - 👋 Hi, I’m @lhh1171
 - 👀 I’m interested in coding 
 - 🌱 I believe the best way to learn is to read
